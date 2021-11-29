@@ -7,5 +7,5 @@ The Poor mans rubber ducky is an open source project Made by Cobolt-60 & Griphco
 --------------------
 
 # All scripts
-[Crash script](https://github.com/Cobolt-60/poor-mans-rubber-ducky-/crash.c) Makes the Keyboard stop working and opens infinite tabs
-[Logout script](https://github.com/Cobolt-60/poor-mans-rubber-ducky-/logout.c) Logs the user out 
+[Crash script](https://github.com/Cobolt-60/poor-mans-rubber-ducky-/crash.c) Makes the Keyboard stop working and opens infinite tabs.
+[Logout script](https://github.com/Cobolt-60/poor-mans-rubber-ducky-/logout.c) Logs the user out when pluged in.
